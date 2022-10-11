@@ -1,4 +1,4 @@
-- 👋 Hi, I’m sehwan.
+👋 Hi, I’m sehwan.
 
 💪 Skills
 <div>
