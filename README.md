@@ -31,4 +31,4 @@
   Pinned
 </div>
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csh44017&show_icons=true&theme=radical) -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=csh44017&show_icons=true&theme=radical)
